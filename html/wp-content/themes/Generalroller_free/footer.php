@@ -46,7 +46,7 @@ $word_t2=get_option('mytheme_word_t2');
 					 $Socialmedia_link4=get_option('mytheme_Socialmedia_link4');  ?>
 
       <?php if($Socialmedia2!=1){ ?> <a href="<?php echo $Socialmedia_link2; ?>"><img src="<?php if($Socialmedia2){echo $Socialmedia2;}else{echo get_bloginfo('template_url').'/images/weibo.png';}; ?>" /></a><?php } ?>
-
+	  <?php if($Socialmedia3!=1){ ?> <a href="<?php echo $Socialmedia_link3; ?>"><img src="<?php if($Socialmedia3){echo $Socialmedia3;}else{echo get_bloginfo('template_url').'/images/baidu.png';}; ?>" /></a><?php } ?>
    </p>
   </div>
 
