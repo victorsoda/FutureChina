@@ -1,9 +1,10 @@
-# futurechinaweb
+# FutureChina
 The HTML codes for http://www.futurechina.org.cn.
 
 The codes we shall focus on：
 
-- futurechinaweb\html\wp-content\themes\Generalroller_free
+- .\html\wp-content\themes\Generalroller_free
+
 
 
 
