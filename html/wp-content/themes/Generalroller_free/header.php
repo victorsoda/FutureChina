@@ -87,7 +87,7 @@ $logo_s=$logo_m;
 	if(!$logo_s){$logo_s=get_bloginfo('template_url').'/images/logo.png';}
 	
 	?>
-         <div class="header_in" style="background:#000;">
+         <div class="header_in" style="background:#FFF;">
                <div class="header_center">
                 <?php if(is_home()){ ?>  <h1 class="logo"><a href="<?php bloginfo('url'); ?>" title="<?php echo  bloginfo('name'); ?>"> <img src="<?php  echo $logo_s ?>" alt="<?php echo  bloginfo('name'); ?>"/></a></h1><?php }else{ ?>
                  <div class="logo"><a href="<?php bloginfo('url'); ?>" title="<?php echo  bloginfo('name'); ?>"> <img src="<?php  echo $logo_s ?>" alt="<?php echo  bloginfo('name'); ?>"/></a></div>
