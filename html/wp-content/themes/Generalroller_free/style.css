@@ -27,7 +27,7 @@ b a,h2 a{ color:#333;}
 .logo{ float:left; overflow:hidden; max-width:20%; max-height:78px;}
 #header_pic_nav{ float: right; height:78px; width: auto;  max-width:79%; position:relative; z-index:1; color:#000;}
 #header_pic_nav  li{ display:block; float:left; color:#000; position:relative; z-index:10;-moz-transition:all 0.8s;-webkit-transition:all 0.8s;-o-transition:all 0.8s;}
-#header_pic_nav  li a{ float:left; display:block; color:#000; margin-bottom:1px; padding:20px 15px 10px 15px; width:auto; transition:all 0.8s; -moz-transition:all 0.8s;-webkit-transition:all 0.8s;-o-transition:all 0.8s;}
+#header_pic_nav  li a{ float:left; display:block; color:#000; margin-bottom:1px; padding:25px 15px 22px 15px; width:auto; transition:all 0.8s; -moz-transition:all 0.8s;-webkit-transition:all 0.8s;-o-transition:all 0.8s;}
 
 
 #header_pic_nav  li img{ float:left; display:block;   margin-top:5px;}
