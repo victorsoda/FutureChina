@@ -278,7 +278,7 @@ ul.dots {
 	left: -90px;
 	-webkit-box-reflect: none;
 	-webkit-filter: saturate(100%);
-	opacity: 1;
+	opacity: 0;
 }
 
 /* Need this because the setting for featured grayscale is overridden by the above */
@@ -955,6 +955,7 @@ form#commentform input {
 
 .landscape.roundsquares #slider img.clone {
 	left: 0;
+	display: none;
 }
 
 .landscape.roundsquares #slider .comments-number {
